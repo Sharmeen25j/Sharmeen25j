@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **finding solutions to fight drug-resistance in superbugs**
 
-- 🌱 I’m currently learning **more about GANs, AIDD**
+- 🌱 I’m currently learning **more about GANs, AIDD, Pharma Regulatory Intelligence, Medical Devices, Longevity Medicine**
 
 - 💞️ Always looking to collaborate on **Drug Discovery research, especially opportunities to build AI-enabled Drug Discovery Technologies**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Medicinal Chemistry, Drug Discovery and Design, Virtual Screening, MD Simulation, AI/ML/DL models**
 
-- 📫 How to reach me **pht19sa.tole@pg.ictmumbai.edu.in**
+- 📫 How to reach me: **pht19sa.tole@pg.ictmumbai.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

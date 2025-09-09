@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Medicinal Chemistry, Drug Discovery and Design, Virtual Screening, MD Simulation, AI/ML/DL models**
 
-- 📫 How to reach me: **pht19sa.tole@pg.ictmumbai.edu.in**
+- 📫 How to reach me: **sharmeen.bph2015@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
